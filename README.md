@@ -19,4 +19,4 @@
 ### Usuario = david
 ### password = user
 
-[Ir ala base de datos](Base20%de20%Datos/bd)
+[Ir ala base de datos](Base%20de%20Datos/bd_blog.sql)
